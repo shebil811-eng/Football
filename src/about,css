@@ -1,0 +1,16 @@
+.about {
+  text-align: center;
+  padding: 2em;
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.image-gallery img {
+  width: 20%;
+  height: auto;
+  margin: 1em;
+}
