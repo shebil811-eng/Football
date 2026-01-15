@@ -15,7 +15,7 @@ function Home() {
 
   return (
     <div className="home">
-      <h1 className="title">Welcome to Football Website</h1>
+      <h1 className="title">Welcome to Football Acadamy</h1><h3>Pothanur Prem League .</h3>
       
       <p className="paragraph">This is a football website showcasing seasons and more!</p>
       <div className="ball-container">
